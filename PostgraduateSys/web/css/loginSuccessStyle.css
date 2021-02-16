@@ -1,0 +1,26 @@
+* {
+    text-align: center;
+}
+
+#header-form {
+    text-align: center;
+    padding-top: 10px;
+    font-size: 16px;
+}
+
+#btn {
+    padding: 1em 3em;
+    background-color: #2196F3;
+    border: 1px solid #2196F3;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+}
+
+#end {
+    margin-top: 30px;
+    background-color: #f3f3f3;
+    text-align: center;
+    padding: 5px;
+    color: #a5a5a5;
+}

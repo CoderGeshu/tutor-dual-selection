@@ -1,0 +1,97 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    font-family: 'JetBrains Mono Medium', serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #0e92b3;
+}
+
+.form-wrapper {
+    width: 300px;
+    background-color: rgb(41, 45, 62);
+    color: #ffffff;
+    border-radius: 10px;
+    padding: 50px;
+}
+
+.form-wrapper .header {
+    text-align: center;
+    font-size: 35px;
+    text-transform: uppercase;
+    line-height: 100px;
+}
+
+.form-wrapper .input-wrapper input {
+    background-color: rgb(41, 45, 62);
+    border: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+    color: #ffffff;
+    outline: none;
+}
+
+.form-wrapper .input-wrapper input::placeholder {
+    text-transform: uppercase;
+}
+
+.form-wrapper .input-wrapper .border-wrapper {
+    background-image: linear-gradient(to right, #e8198b, #0eb4dd);
+    width: 100%;
+    height: 50px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-wrapper .input-wrapper .border-wrapper .border-item {
+    height: calc(100% - 4px);
+    width: calc(100% - 1px);
+    border-radius: 30px;
+}
+
+.radio-wrapper {
+    text-align: center;
+    margin: 25px auto;
+}
+
+.form-wrapper .action {
+    display: flex;
+    justify-content: center;
+}
+
+.form-wrapper .action .btn {
+    width: 60%;
+    text-transform: uppercase;
+    border: 2px solid #0e92b3;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.form-wrapper .action .btn:hover {
+    background-color: #0e92b3;
+}
+
+.form-wrapper .footer-wrapper {
+    text-align: center;
+    width: 60%;
+    margin: 20px auto 0;
+    border-top: 1px dashed rgb(146, 146, 146);
+    padding: 20px;
+}
+

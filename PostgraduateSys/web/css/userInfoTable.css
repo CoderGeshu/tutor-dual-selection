@@ -1,0 +1,77 @@
+body, table {
+    font-size: 12px;
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+    border: 1px solid #9DB3C5;
+    border-radius: 10px;
+    padding: 1px;
+    width: 90%;
+    margin: 3px auto;
+}
+
+th {
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.title h1 {
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(202, 223, 254);
+    color: rgb(43, 43, 44);
+    margin: 0;
+    padding: 3px;
+}
+
+table {
+    text-align: center;
+    width: 90%;
+    table-layout: fixed;
+    empty-cells: show;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+table th {
+    border: 1px solid rgb(200, 200, 200);
+}
+
+table, td {
+    border: 1px solid rgb(221, 221, 221);
+}
+
+
+table th {
+    background-color: rgb(202, 223, 254);
+}
+
+table th, table td {
+    height: 40px;
+}
+
+table tr.a1 {
+    background-color: rgb(241, 248, 255);
+}
+
+a {
+    color: #2196F3;
+    text-decoration: none;
+}
+
+a:hover {
+    color: crimson;
+}
+
+.btn {
+    padding: 3px 1em;
+    background-color: #2196F3;
+    border: 1px solid #2196F3;
+    border-radius: 7px;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+

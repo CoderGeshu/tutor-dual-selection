@@ -1,0 +1,50 @@
+#personal-wrapper {
+    padding: 5px 15px;
+}
+
+#table-wrapper {
+    padding-top: 50px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+table {
+    margin: 0 auto;
+}
+
+td {
+    width: 8rem;
+    height: 3em;
+}
+
+.info {
+    font-weight: bold;
+    text-align: right;
+}
+
+.rs {
+    text-align: left;
+}
+
+#btn {
+    margin-left: auto;
+    text-align: center;
+    margin-top: 10%;
+}
+
+#modifyBtn, #goBackBtn, #confirmBtn, #cancelBackBtn {
+    padding: 6px 2em;
+    background-color: #2196F3;
+    border: 1px solid #2196F3;
+    border-radius: 7px;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+#confirmBtn {
+    display: none;
+}
+
+#cancelBackBtn {
+    display: none;
+}
