@@ -1,4 +1,7 @@
 # Postgraduate-Tutor-Sys 项目
+
+**★★★特别注意：本项目版权所有 [@微信CoderGeshu](https://mp.weixin.qq.com/s/IziWp01QgxlSUUuICP6_FQ)**，可供大家研究学习，如有其它用途，请联系作者。
+
 【课设项目】**基于 JSP 的研究生导师双选系统。**
 
 系统开发及部署报告见 **系统文件** 目录下文件内容。
@@ -56,41 +59,41 @@
 
 #### 登录页面
 
-<img src="https://gitee.com/eric0228/pic-go-images/raw/master/img/image-20210216140520237.png" alt="登录页面" style="zoom:80%;" />
+<img src="https://gitee.com/CoderGeshu/pic-go-images/raw/master/img/image-20210216140520237.png" alt="登录页面" style="zoom:80%;" />
 
 #### 个人信息管理
 
-![个人信息管理](https://gitee.com/eric0228/pic-go-images/raw/master/img/image-20210216140833976.png)
+![个人信息管理](https://gitee.com/CoderGeshu/pic-go-images/raw/master/img/image-20210216140833976.png)
 
 #### 设定志愿开放时间
 
-![设定志愿开放时间](https://gitee.com/eric0228/pic-go-images/raw/master/img/image-20210216141400221.png)
+![设定志愿开放时间](https://gitee.com/CoderGeshu/pic-go-images/raw/master/img/image-20210216141400221.png)
 
 #### 学生填报志愿与志愿结果查看
 
-![学生填报志愿](https://gitee.com/eric0228/pic-go-images/raw/master/img/image-20210216141625911.png)
+![学生填报志愿](https://gitee.com/CoderGeshu/pic-go-images/raw/master/img/image-20210216141625911.png)
 
-![查看志愿结果](https://gitee.com/eric0228/pic-go-images/raw/master/img/image-20210216141758587.png)
+![查看志愿结果](https://gitee.com/CoderGeshu/pic-go-images/raw/master/img/image-20210216141758587.png)
 
 #### 系管理员为学生分配导师
 
-![分配导师](https://gitee.com/eric0228/pic-go-images/raw/master/img/image-20210216142011590.png)
+![分配导师](https://gitee.com/CoderGeshu/pic-go-images/raw/master/img/image-20210216142011590.png)
 
 #### 导师处理学生志愿
 
-![导师处理学生志愿](https://gitee.com/eric0228/pic-go-images/raw/master/img/image-20210216142128834.png)
+![导师处理学生志愿](https://gitee.com/CoderGeshu/pic-go-images/raw/master/img/image-20210216142128834.png)
 
 #### 管理师生关系
 
-![管理师生关系](https://gitee.com/eric0228/pic-go-images/raw/master/img/image-20210216142228063.png)
+![管理师生关系](https://gitee.com/CoderGeshu/pic-go-images/raw/master/img/image-20210216142228063.png)
 
 #### 单个导入用户
 
-![单个导入学生信息](https://gitee.com/eric0228/pic-go-images/raw/master/img/image-20210216142325051.png)
+![单个导入学生信息](https://gitee.com/CoderGeshu/pic-go-images/raw/master/img/image-20210216142325051.png)
 
 ### 批量导入用户信息
 
-![批量导入学生信息](https://gitee.com/eric0228/pic-go-images/raw/master/img/image-20210216142415634.png)
+![批量导入学生信息](https://gitee.com/CoderGeshu/pic-go-images/raw/master/img/image-20210216142415634.png)
 
 
 
