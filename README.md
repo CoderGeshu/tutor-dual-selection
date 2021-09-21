@@ -1,4 +1,4 @@
-# Postgraduate-Tutor-Sys 项目
+# tutor-dual-selection 项目
 
 **★★★特别注意：本项目版权所有 [@微信CoderGeshu](https://mp.weixin.qq.com/s/IziWp01QgxlSUUuICP6_FQ)**，可供大家研究学习，如有其它用途，请联系作者。
 
